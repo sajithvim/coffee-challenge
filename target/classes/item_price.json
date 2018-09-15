@@ -1,0 +1,60 @@
+{
+  "prices": [
+    {
+      "product_code": "espresso",
+      "unit_price": 3,
+      "tax_policy": "STANDARD",
+      "size_additions":{
+        "L" : 0.5,
+        "S": -0.5,
+        "R" : 0
+      },
+      "addons":{
+        "skim": 0.5,
+        "soy" : 0.5
+      }
+    },
+    {
+      "product_code": "cappuccino",
+      "unit_price": 3.5,
+      "tax_policy": "STANDARD",
+      "size_additions":{
+        "L" : 0.5,
+        "S": -0.5,
+        "R" : 0
+      },
+      "addons":{
+        "skim": 0.5,
+        "soy" : 0.5
+      }
+    },
+    {
+      "product_code": "latte",
+      "unit_price": 3.5,
+      "tax_policy": "STANDARD",
+      "size_additions":{
+        "L" : 0.5,
+        "S": -0.5,
+        "R" : 0
+      },
+      "addons":{
+        "skim": 0.5,
+        "soy" : 0.5
+      }
+    },
+    {
+      "product_code": "flat_white",
+      "unit_price": 3.5,
+      "tax_policy": "STANDARD",
+      "size_additions":{
+        "L" : 0.5,
+        "S": -0.5,
+        "R" : 0
+      },
+      "addons":{
+        "skim": 0.5,
+        "soy" : 0.5
+      }
+    }
+  ]
+}
